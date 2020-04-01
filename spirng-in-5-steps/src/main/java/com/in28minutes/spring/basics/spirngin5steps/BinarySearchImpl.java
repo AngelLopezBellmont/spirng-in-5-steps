@@ -8,6 +8,7 @@ public class BinarySearchImpl  {
 
   public BinarySearchImpl(SortAlgorithm sortAlgorithm) {
     this.sortAlgorithm = sortAlgorithm;
+    
   }
 
 
